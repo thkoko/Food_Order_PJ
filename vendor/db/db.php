@@ -3,8 +3,8 @@ class Database{
     private static $hostname='localhost';
     private static $db_name='food_order';
     private static $username='root';
-    private $password='';
-    private $connection;
+    private static $password='';
+    private static $connection;
 
     public static function connect(){
         if(self::$connection==null)
