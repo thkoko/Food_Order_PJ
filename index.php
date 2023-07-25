@@ -1,5 +1,10 @@
 <?php
 include_once 'layouts/navbar.php';
+include_once 'categoryController.php';
+
+$category=new CategoryController();
+$categories=$category_cont->getCategories();
+var_dump($categories);
 ?>
 
             <div class="container-xxl py-5 bg-dark hero-header mb-5">

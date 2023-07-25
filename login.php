@@ -1,6 +1,3 @@
-<?php
-include_once 'layouts/navbar.php';
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,6 +9,3 @@ include_once 'layouts/navbar.php';
     <h1 class="text-danget">Login Page</h1>
 </body>
 </html>
-<?php
-include_once 'layouts/footer.php';
-?>
