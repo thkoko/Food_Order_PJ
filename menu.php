@@ -63,7 +63,7 @@ include_once 'layouts/navbar.php'
                                         <img class="flex-shrink-0 img-fluid rounded" src="img/K-F-1.jpg" alt="" style="width: 80px;">
                                         <div class="w-100 d-flex flex-column text-start ps-4">
                                             <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                                <span>Koeran Spicy Chicken</span>
+                                                <span>Korean Spicy Chicken</span>
                                                 <span class="text-primary">8,000Ks</span>
                                             </h5>
                                             <small class="fst-italic">Ipsum ipsum clita erat amet dolor justo diam</small>

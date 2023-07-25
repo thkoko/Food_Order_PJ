@@ -4,7 +4,6 @@ include_once 'controller/categoryController.php';
 
 $category_con=new CategoryController();
 $categories=$category_con->getCategories();
-var_dump($categories);
 ?>
 
             <div class="container-xxl py-5 bg-dark hero-header mb-5">
