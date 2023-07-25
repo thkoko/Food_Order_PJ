@@ -2,7 +2,7 @@
 include_once 'layouts/navbar.php';
 include_once 'categoryController.php';
 
-$category=new CategoryController();
+$category_con=new CategoryController();
 $categories=$category_cont->getCategories();
 var_dump($categories);
 ?>
