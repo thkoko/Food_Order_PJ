@@ -48,3 +48,7 @@ $products=$prod_controller->getProducts();
 
 				</div>
 			</main>
+
+<?php
+include_once __DIR__.'/../layouts/app_footer.php';
+?>
