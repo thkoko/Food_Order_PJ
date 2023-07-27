@@ -137,7 +137,7 @@ $categories=$category_con->getCategories();
                         {
                         ?>
                         <li class="nav-item">
-                            <a class="d-flex align-items-center text-start mx-3 ms-0 pb-3 active" data-bs-toggle="pill" href="#tab-1">
+                            <a class="d-flex align-items-center text-start mx-3 ms-0 pb-3" data-bs-toggle="pill" href="#tab-1">
                                 <div class="ps-3">
                                     <h6 class="mt-n1 mb-0"><?php echo $category['name'];?></h6>
                                 </div>
