@@ -58,7 +58,7 @@
                         <a href="index.php" class="nav-item nav-link active">Home</a>
                         <a href="about.php" class="nav-item nav-link">About</a>
                         <a href="menu.php" class="nav-item nav-link">Menu</a>
-                        <a href="order.php" class="nav-item nav-link">Order</a>
+                        <a href="menudetails.php" class="nav-item nav-link">Order</a>
                         <!-- <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
                             <div class="dropdown-menu m-0">
