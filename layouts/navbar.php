@@ -57,7 +57,6 @@
                     <div class="navbar-nav ms-auto py-0 pe-4">
                         <a href="index.php" class="nav-item nav-link active">Home</a>
                         <a href="about.php" class="nav-item nav-link">About</a>
-                        <a href="service.php" class="nav-item nav-link">Service</a>
                         <a href="menu.php" class="nav-item nav-link">Menu</a>
                         <a href="order.php" class="nav-item nav-link">Order</a>
                         <!-- <div class="nav-item dropdown">
@@ -68,7 +67,7 @@
                                 <a href="testimonial.html" class="dropdown-item">Testimonial</a>
                             </div>
                         </div> -->
-                        <a href="contact.php" class="nav-item nav-link">Contact</a>
+                        <a href="feedback.php" class="nav-item nav-link">Feedback</a>
                     </div>
                     <a href="login.php" class="btn btn-primary py-2 px-4">Order Now</a>
                 </div>
